@@ -90,6 +90,6 @@ I'm a student passionate about AI and frontend development.
 This project is part of my learning and contribution to the open-source community.  
 If you like it, give it a ⭐ and check out my other work!
 
-- 📧 [Your email]
-- 🌐 [Your LinkedIn or Portfolio]
-- 💻 GitHub: [yourusername]
+- 📧 fhsnzade@gmail.com
+- 🌐 www.linkedin.com/in/faezeh-hassanzade-41b974228
+- 💻 GitHub: faezehsnz
